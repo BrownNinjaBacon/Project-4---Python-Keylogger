@@ -1,0 +1,6 @@
+Couldn't get Public Ip Address (most likely max query
+Processor: AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: DESKTOP-1AEA0FH
+Private IP Address: 

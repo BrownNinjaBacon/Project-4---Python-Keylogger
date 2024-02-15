@@ -1,0 +1,6 @@
+Couldn't get Public Ip Address (most likely max query)
+Processor: Intel64 Family 6 Model 141 Stepping 1, GenuineIntel
+System: Windows 10.0.19044
+Machine: AMD64
+Hostname: LAPTOP-TLUJ7R8E
+Private IP Address: 192.168.1.84
